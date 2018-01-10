@@ -1,9 +1,4 @@
 
-
-
-
-
-
 /* Header */
 .header {
 	height: 600px;
@@ -227,7 +222,7 @@
 /*Clients*/
 .client {
     padding: 50px 0 80px;
-    background-color: #3399ff;
+    background-color: #fff;
     text-align: center;
     color: #fff;
    
@@ -299,7 +294,7 @@
 .footer {
 	padding: 30px;
 	color: #cccccc;
-	background-color: #222222;
+	background-color: #2981bc;
 	font-family: 'Comfortaa', cursive;
 }
 
